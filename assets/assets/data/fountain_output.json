@@ -1,0 +1,1099 @@
+{
+    "elements": [
+        {
+            "name": "Berliner Wasserbetriebe",
+            "lat": 52.42515,
+            "lon": 13.320114
+        },
+        {
+            "name": "Botanischer Garten",
+            "lat": 52.455401,
+            "lon": 13.302277
+        },
+        {
+            "name": "Saubucht",
+            "lat": 52.476613,
+            "lon": 13.210473
+        },
+        {
+            "name": "Berliner Wasserbetriebe",
+            "lat": 52.5201,
+            "lon": 13.273316
+        },
+        {
+            "name": "Metzer Platz",
+            "lat": 52.524986,
+            "lon": 13.197004
+        },
+        {
+            "name": "Spielplatz Obermeierweg",
+            "lat": 52.534673,
+            "lon": 13.2070189999999
+        },
+        {
+            "name": "Koeltzepark",
+            "lat": 52.546206,
+            "lon": 13.205975
+        },
+        {
+            "name": "Wasserwerk Tegel",
+            "lat": 52.576099,
+            "lon": 13.265283
+        },
+        {
+            "name": "Hallen am Borsigturm",
+            "lat": 52.585928,
+            "lon": 13.286876
+        },
+        {
+            "name": "Greenwichpromenade",
+            "lat": 52.588152,
+            "lon": 13.2744290000001
+        },
+        {
+            "name": "Rathaus-Center Pankow",
+            "lat": 52.569872,
+            "lon": 13.404499
+        },
+        {
+            "name": "Garb\u00e1typlatz",
+            "lat": 52.567312,
+            "lon": 13.411378
+        },
+        {
+            "name": "Schwimmhalle Zingster Stra\u00dfe",
+            "lat": 52.56604,
+            "lon": 13.5024530000001
+        },
+        {
+            "name": "Lindenbrunnen",
+            "lat": 52.554581,
+            "lon": 13.5630679999999
+        },
+        {
+            "name": "G\u00e4rten der Welt",
+            "lat": 52.539895,
+            "lon": 13.576407
+        },
+        {
+            "name": "G\u00e4rten der Welt",
+            "lat": 52.534274,
+            "lon": 13.575659
+        },
+        {
+            "name": "Museum im Wasserwerk",
+            "lat": 52.447746,
+            "lon": 13.6444
+        },
+        {
+            "name": "Marktplatz Friedrichshagen",
+            "lat": 52.4506,
+            "lon": 13.62411
+        },
+        {
+            "name": "Elcknerplatz",
+            "lat": 52.458284,
+            "lon": 13.579374
+        },
+        {
+            "name": "FEZ",
+            "lat": 52.461165,
+            "lon": 13.548309
+        },
+        {
+            "name": "Rathenauplatz",
+            "lat": 52.458681,
+            "lon": 13.52637
+        },
+        {
+            "name": "Johannes-Fest-Platz",
+            "lat": 52.48211,
+            "lon": 13.5266
+        },
+        {
+            "name": "Bahnhof Lichtenberg",
+            "lat": 52.510495,
+            "lon": 13.4989909999999
+        },
+        {
+            "name": "Schlachtensee",
+            "lat": 52.447167,
+            "lon": 13.2301150000001
+        },
+        {
+            "name": "Schloss Charlottenburg",
+            "lat": 52.519236,
+            "lon": 13.2960909999999
+        },
+        {
+            "name": "Kurf\u00fcrstendamm",
+            "lat": 52.50273,
+            "lon": 13.3250430000001
+        },
+        {
+            "name": "Fasanenstra\u00dfe",
+            "lat": 52.503248,
+            "lon": 13.327677
+        },
+        {
+            "name": "U-Bhf Kurf\u00fcrstendamm",
+            "lat": 52.503387,
+            "lon": 13.330428
+        },
+        {
+            "name": "Freundschaftsplatz/Kanner Platz",
+            "lat": 52.472203,
+            "lon": 13.446143
+        },
+        {
+            "name": "Botanischer Garten",
+            "lat": 52.431508,
+            "lon": 13.409322
+        },
+        {
+            "name": "Alt-Rudow",
+            "lat": 52.420215,
+            "lon": 13.492121
+        },
+        {
+            "name": "Weserstra\u00dfe",
+            "lat": 52.488349,
+            "lon": 13.427034
+        },
+        {
+            "name": "Volkspark Friedrichshain",
+            "lat": 52.52854,
+            "lon": 13.432943
+        },
+        {
+            "name": "U-Bhf. Pankstra\u00dfe",
+            "lat": 52.552523,
+            "lon": 13.381395
+        },
+        {
+            "name": "Gesundbrunnen-Center",
+            "lat": 52.549683,
+            "lon": 13.387244
+        },
+        {
+            "name": "Vinetaplatz",
+            "lat": 52.541268,
+            "lon": 13.398693
+        },
+        {
+            "name": "Landesamt f\u00fcr Gesundheit und Soziales",
+            "lat": 52.528372,
+            "lon": 13.34732
+        },
+        {
+            "name": "Stromstra\u00dfe",
+            "lat": 52.525751,
+            "lon": 13.342616
+        },
+        {
+            "name": "U-Bhf. Spittelmarkt",
+            "lat": 52.511032,
+            "lon": 13.401764
+        },
+        {
+            "name": "Brliner Wasserbetriebe (Unternehmenszentrale)",
+            "lat": 52.515496,
+            "lon": 13.4107710000001
+        },
+        {
+            "name": "Kottbusser Tor",
+            "lat": 52.498638,
+            "lon": 13.418932
+        },
+        {
+            "name": "Park am Gleisdreieck",
+            "lat": 52.499452,
+            "lon": 13.372401
+        },
+        {
+            "name": "Marchlewskistra\u00dfe",
+            "lat": 52.510106,
+            "lon": 13.447411
+        },
+        {
+            "name": "Stadtpark Steglitz",
+            "lat": 52.448661,
+            "lon": 13.335437
+        },
+        {
+            "name": "Bahnhof Berlin Ostbahnhof",
+            "lat": 52.511672,
+            "lon": 13.4339629999999
+        },
+        {
+            "name": "Mariannenplatz",
+            "lat": 52.503645,
+            "lon": 13.424589
+        },
+        {
+            "name": "K\u00f6nigin-Luise-Platz",
+            "lat": 52.458526,
+            "lon": 13.304155
+        },
+        {
+            "name": "Breslauer Platz",
+            "lat": 52.472065,
+            "lon": 13.33519
+        },
+        {
+            "name": "B\u00e4kestra\u00dfe",
+            "lat": 52.434163,
+            "lon": 13.317099
+        },
+        {
+            "name": "U-Bhf. Dahlem-Dorf",
+            "lat": 52.457949,
+            "lon": 13.289889
+        },
+        {
+            "name": "U-Bhf. Elsterwerdaer Platz",
+            "lat": 52.505947,
+            "lon": 13.560792
+        },
+        {
+            "name": "Park am Gleisdreieck",
+            "lat": 52.495721,
+            "lon": 13.373641
+        },
+        {
+            "name": "Helene-Weigel-Platz",
+            "lat": 52.527916,
+            "lon": 13.538472
+        },
+        {
+            "name": "Eastgate",
+            "lat": 52.543057,
+            "lon": 13.543576
+        },
+        {
+            "name": "Leipziger Platz",
+            "lat": 52.509554,
+            "lon": 13.379401
+        },
+        {
+            "name": "Checkpoint Charlie",
+            "lat": 52.507968,
+            "lon": 13.390153
+        },
+        {
+            "name": "Unter den Linden",
+            "lat": 52.516778,
+            "lon": 13.386032
+        },
+        {
+            "name": "Fehrbelliner Platz",
+            "lat": 52.490428,
+            "lon": 13.313466
+        },
+        {
+            "name": "Theodor-Heuss-Platz",
+            "lat": 52.508661,
+            "lon": 13.274037
+        },
+        {
+            "name": "Ludwigkirchplatz",
+            "lat": 52.497724,
+            "lon": 13.322711
+        },
+        {
+            "name": "Wilmersdorfer Stra\u00dfe",
+            "lat": 52.50874,
+            "lon": 13.30605
+        },
+        {
+            "name": "Max-Taut-Schule",
+            "lat": 52.501307,
+            "lon": 13.487002
+        },
+        {
+            "name": "N\u00f6ldner Platz",
+            "lat": 52.502318,
+            "lon": 13.483907
+        },
+        {
+            "name": "Nikolaiviertel",
+            "lat": 52.516611,
+            "lon": 13.406434
+        },
+        {
+            "name": "Sch\u00e4fersee",
+            "lat": 52.563287,
+            "lon": 13.361407
+        },
+        {
+            "name": "Brauereihof",
+            "lat": 52.546073,
+            "lon": 13.21126
+        },
+        {
+            "name": "U-Bhf. Ruhleben",
+            "lat": 52.525831,
+            "lon": 13.241116
+        },
+        {
+            "name": "Wiclefstra\u00dfe",
+            "lat": 52.530347,
+            "lon": 13.335446
+        },
+        {
+            "name": "Wilmersdorfer Stra\u00dfe",
+            "lat": 52.507665,
+            "lon": 13.306372
+        },
+        {
+            "name": "Britzer Garten",
+            "lat": 52.432582,
+            "lon": 13.41474
+        },
+        {
+            "name": "Sommerbad Kreuzberg",
+            "lat": 52.497999,
+            "lon": 13.406199
+        },
+        {
+            "name": "Paul-Junius-Stra\u00dfe",
+            "lat": 52.526171,
+            "lon": 13.475479
+        },
+        {
+            "name": "Werneuchenstra\u00dfe/Genslerstra\u00dfe",
+            "lat": 52.535475,
+            "lon": 13.498549
+        },
+        {
+            "name": "Altenhofer Stra\u00dfe",
+            "lat": 52.535512,
+            "lon": 13.484279
+        },
+        {
+            "name": "Wriezener Stra\u00dfe",
+            "lat": 52.542011,
+            "lon": 13.495309
+        },
+        {
+            "name": "Sparrplatz",
+            "lat": 52.541653,
+            "lon": 13.360842
+        },
+        {
+            "name": "Rudolfplatz",
+            "lat": 52.504335,
+            "lon": 13.455524
+        },
+        {
+            "name": "Stuttgarter Platz",
+            "lat": 52.505112,
+            "lon": 13.301302
+        },
+        {
+            "name": "Ostseestra\u00dfe",
+            "lat": 52.550201,
+            "lon": 13.432122
+        },
+        {
+            "name": "Falkenhagener Feld",
+            "lat": 52.550231,
+            "lon": 13.178263
+        },
+        {
+            "name": "Wr\u00f6hm\u00e4nnerpark",
+            "lat": 52.542759,
+            "lon": 13.206759
+        },
+        {
+            "name": "Hohenzollernpark",
+            "lat": 52.555488,
+            "lon": 13.207905
+        },
+        {
+            "name": "Trusepark",
+            "lat": 52.481878,
+            "lon": 13.448475
+        },
+        {
+            "name": "Quartierspark",
+            "lat": 52.491993,
+            "lon": 13.510869
+        },
+        {
+            "name": "M\u00fcnsterlandplatz",
+            "lat": 52.503526,
+            "lon": 13.496404
+        },
+        {
+            "name": "Harnackstra\u00dfe",
+            "lat": 52.511338,
+            "lon": 13.486094
+        },
+        {
+            "name": "T\u00fcrschmidtstra\u00dfe",
+            "lat": 52.503485,
+            "lon": 13.482354
+        },
+        {
+            "name": "Wildenbruchplatz",
+            "lat": 52.483592,
+            "lon": 13.446437
+        },
+        {
+            "name": "Kummerower Ring",
+            "lat": 52.527367,
+            "lon": 13.585824
+        },
+        {
+            "name": "Victor-Klemperer-Platz",
+            "lat": 52.546619,
+            "lon": 13.556812
+        },
+        {
+            "name": "Kiezpark Sch\u00f6nagelstra\u00dfe",
+            "lat": 52.548854,
+            "lon": 13.570387
+        },
+        {
+            "name": "Birkenstra\u00dfe",
+            "lat": 52.532935,
+            "lon": 13.339381
+        },
+        {
+            "name": "Sredzkistra\u00dfe/Rykestra\u00dfe",
+            "lat": 52.537846,
+            "lon": 13.42188
+        },
+        {
+            "name": "U-Bahnhof Residenzstra\u00dfe",
+            "lat": 52.572228,
+            "lon": 13.360174
+        },
+        {
+            "name": "Senftenberger Ring",
+            "lat": 52.600091,
+            "lon": 13.353194
+        },
+        {
+            "name": "S-Bahnhof Lankwitz",
+            "lat": 52.438989,
+            "lon": 13.343146
+        },
+        {
+            "name": "Lewaldplatz",
+            "lat": 52.552027,
+            "lon": 13.420266
+        },
+        {
+            "name": "Stadtplatz Marie",
+            "lat": 52.534863,
+            "lon": 13.424365
+        },
+        {
+            "name": "Ahrensfelder Platz",
+            "lat": 52.569912,
+            "lon": 13.566124
+        },
+        {
+            "name": "U-Bahnhof Krumme Lanke",
+            "lat": 52.442412,
+            "lon": 13.240269
+        },
+        {
+            "name": "Rostocker Stra\u00dfe",
+            "lat": 52.571718,
+            "lon": 13.509175
+        },
+        {
+            "name": "Volkspark Friedrichshain",
+            "lat": 52.526564,
+            "lon": 13.440618
+        },
+        {
+            "name": "Thomas-Mann-Stra\u00dfe",
+            "lat": 52.542012,
+            "lon": 13.446343
+        },
+        {
+            "name": "Volkspark K\u00f6penick",
+            "lat": 52.440847,
+            "lon": 13.589086
+        },
+        {
+            "name": "Arndtplatz",
+            "lat": 52.435243,
+            "lon": 13.553602
+        },
+        {
+            "name": "Planetarium",
+            "lat": 52.542374,
+            "lon": 13.42995
+        },
+        {
+            "name": "B\u00fcrgerpark Pankow",
+            "lat": 52.571048,
+            "lon": 13.397924
+        },
+        {
+            "name": "Mierendorffplatz",
+            "lat": 52.525786,
+            "lon": 13.304054
+        },
+        {
+            "name": "Besselpark",
+            "lat": 52.504158,
+            "lon": 13.391295
+        },
+        {
+            "name": "B\u00fcrgerpark Pankow",
+            "lat": 52.568904,
+            "lon": 13.396116
+        },
+        {
+            "name": "Heinz-Knobloch-Platz",
+            "lat": 52.562345,
+            "lon": 13.411902
+        },
+        {
+            "name": "Landschaftsschutzgebiet Herzberge",
+            "lat": 52.525367,
+            "lon": 13.508811
+        },
+        {
+            "name": "Warnitzer Stra\u00dfe",
+            "lat": 52.567121,
+            "lon": 13.519056
+        },
+        {
+            "name": "R\u00f6thepfuhl",
+            "lat": 52.406752,
+            "lon": 13.508135
+        },
+        {
+            "name": "Altstadt Spandau",
+            "lat": 52.53868,
+            "lon": 13.206201
+        },
+        {
+            "name": "Theodor-Wolff-Park",
+            "lat": 52.500986,
+            "lon": 13.39162
+        },
+        {
+            "name": "Olivaer Platz",
+            "lat": 52.499407,
+            "lon": 13.314957
+        },
+        {
+            "name": "Deutsches Technikmuseum",
+            "lat": 52.496484,
+            "lon": 13.377941
+        },
+        {
+            "name": "Stargader Stra\u00dfe",
+            "lat": 52.544353,
+            "lon": 13.422361
+        },
+        {
+            "name": "Kollwitzplatz",
+            "lat": 52.536703,
+            "lon": 13.418305
+        },
+        {
+            "name": "S-Bahnhof Wilhelmshagen",
+            "lat": 52.439043,
+            "lon": 13.7209
+        },
+        {
+            "name": "Friedhof Baumschulenweg",
+            "lat": 52.460447,
+            "lon": 13.493198
+        },
+        {
+            "name": "Tempelhofer Feld (Eingang Columbiadamm)",
+            "lat": 52.482318,
+            "lon": 13.407019
+        },
+        {
+            "name": "Temeplhofer Feld (Eingang Tempelhofer Damm)",
+            "lat": 52.471605,
+            "lon": 13.386741
+        },
+        {
+            "name": "Robert-Rescue-Platz",
+            "lat": 52.550707,
+            "lon": 13.359816
+        },
+        {
+            "name": "Nettelbeckplatz",
+            "lat": 52.544441,
+            "lon": 13.369039
+        },
+        {
+            "name": "Nauener Platz",
+            "lat": 52.551953,
+            "lon": 13.367565
+        },
+        {
+            "name": "Bornholmer Stra\u00dfe",
+            "lat": 52.555436,
+            "lon": 13.39212
+        },
+        {
+            "name": "Herrfurthplatz",
+            "lat": 52.476613,
+            "lon": 13.422234
+        },
+        {
+            "name": "Lohm\u00fchlenbr\u00fccke",
+            "lat": 52.489457,
+            "lon": 13.439191
+        },
+        {
+            "name": "U-Bahnhof S\u00fcdstern",
+            "lat": 52.489479,
+            "lon": 13.407814
+        },
+        {
+            "name": "Weberwiese",
+            "lat": 52.516047,
+            "lon": 13.442812
+        },
+        {
+            "name": "Schreinerstra\u00dfe",
+            "lat": 52.517144,
+            "lon": 13.46673
+        },
+        {
+            "name": "Samariterstra\u00dfe",
+            "lat": 52.520094,
+            "lon": 13.466938
+        },
+        {
+            "name": "Karl-Marx-Allee",
+            "lat": 52.517209,
+            "lon": 13.444908
+        },
+        {
+            "name": "Karl-Marx-Allee",
+            "lat": 52.517787,
+            "lon": 13.438653
+        },
+        {
+            "name": "Strausberger Platz",
+            "lat": 52.518702,
+            "lon": 13.429307
+        },
+        {
+            "name": "Stadtpark Lichtenberg",
+            "lat": 52.519062,
+            "lon": 13.478319
+        },
+        {
+            "name": "U-Bahnhof Schlo\u00dfstra\u00dfe",
+            "lat": 52.461316,
+            "lon": 13.324599
+        },
+        {
+            "name": "Herrmann-Ehlers-Platz",
+            "lat": 52.456744,
+            "lon": 13.322057
+        },
+        {
+            "name": "Nogatstra\u00dfe",
+            "lat": 52.469815,
+            "lon": 13.435509
+        },
+        {
+            "name": "Schierker Platz",
+            "lat": 52.470041,
+            "lon": 13.43755
+        },
+        {
+            "name": "K\u00f6rnerpark",
+            "lat": 52.472091,
+            "lon": 13.43812
+        },
+        {
+            "name": "Leubnitzer Weg",
+            "lat": 52.521374,
+            "lon": 13.172288
+        },
+        {
+            "name": "Leon-Jessel-Platz",
+            "lat": 52.489349,
+            "lon": 13.319599
+        },
+        {
+            "name": "Sderotplatz",
+            "lat": 52.435444,
+            "lon": 13.257834
+        },
+        {
+            "name": "Ludwig-Beck-Platz",
+            "lat": 52.442973,
+            "lon": 13.312794
+        },
+        {
+            "name": "Marheinekeplatz",
+            "lat": 52.489007,
+            "lon": 13.395851
+        },
+        {
+            "name": "Rhinower Stra\u00dfe/Kopenhagener Stra\u00dfe",
+            "lat": 52.548886,
+            "lon": 13.410037
+        },
+        {
+            "name": "Antonplatz",
+            "lat": 52.548703,
+            "lon": 13.451041
+        },
+        {
+            "name": "Adenauerplatz",
+            "lat": 52.500768,
+            "lon": 13.307344
+        },
+        {
+            "name": "Forckenbeckplatz",
+            "lat": 52.519905,
+            "lon": 13.460949
+        },
+        {
+            "name": "M\u00fcnsinger Park",
+            "lat": 52.536052,
+            "lon": 13.198968
+        },
+        {
+            "name": "Pichelsdorfer Stra\u00dfe",
+            "lat": 52.513314,
+            "lon": 13.196968
+        },
+        {
+            "name": "Zeltinger Platz",
+            "lat": 52.634398,
+            "lon": 13.290271
+        },
+        {
+            "name": "Fennsee",
+            "lat": 52.483343,
+            "lon": 13.318921
+        },
+        {
+            "name": "Rathaus Neuk\u00f6lln",
+            "lat": 52.480964,
+            "lon": 13.435418
+        },
+        {
+            "name": "Teltower Damm",
+            "lat": 52.433356,
+            "lon": 13.258964
+        },
+        {
+            "name": "Rathaus Reinickendorf",
+            "lat": 52.588799,
+            "lon": 13.324595
+        },
+        {
+            "name": "U-Bahnhof Wilmersdorfer Stra\u00dfe",
+            "lat": 52.50578,
+            "lon": 13.306938
+        },
+        {
+            "name": "Bahnhof Wuhletal",
+            "lat": 52.513234,
+            "lon": 13.57377
+        },
+        {
+            "name": "Hohenstaufenplatz",
+            "lat": 52.490896,
+            "lon": 13.423177
+        },
+        {
+            "name": "Max-Josef-Metzger-Platz",
+            "lat": 52.543768,
+            "lon": 13.36416
+        },
+        {
+            "name": "Charit\u00e9",
+            "lat": 52.525697,
+            "lon": 13.380463
+        },
+        {
+            "name": "Alice-Salomon-Platz",
+            "lat": 52.537175,
+            "lon": 13.603953
+        },
+        {
+            "name": "Tierpark Berlin",
+            "lat": 52.503861,
+            "lon": 13.520824
+        },
+        {
+            "name": "Anton-Saefkow-Platz",
+            "lat": 52.52996,
+            "lon": 13.471391
+        },
+        {
+            "name": "Paul-Lincke-Ufer",
+            "lat": 52.493114,
+            "lon": 13.431231
+        },
+        {
+            "name": "Park am Gleisdreieck",
+            "lat": 52.495308,
+            "lon": 13.37617
+        },
+        {
+            "name": "Comeniusplatz",
+            "lat": 52.511354,
+            "lon": 13.448724
+        },
+        {
+            "name": "Leopoldplatz",
+            "lat": 52.548887,
+            "lon": 13.362864
+        },
+        {
+            "name": "Martha-Arendee-Stra\u00dfe",
+            "lat": 52.535959,
+            "lon": 13.539102
+        },
+        {
+            "name": "Tempelhofer Feld (Oderstra\u00dfe/Herfurthstra\u00dfe)",
+            "lat": 52.47652,
+            "lon": 13.418498
+        },
+        {
+            "name": "Tempelhofer Feld (Oderstra\u00dfe S\u00fcd)",
+            "lat": 52.470971,
+            "lon": 13.420108
+        },
+        {
+            "name": "Hugo-Cassirer-Stra\u00dfe",
+            "lat": 52.559422,
+            "lon": 13.217567
+        },
+        {
+            "name": "Fehrbelliner Tor",
+            "lat": 52.555178,
+            "lon": 13.198132
+        },
+        {
+            "name": "Lichtenrader Graben",
+            "lat": 52.386558,
+            "lon": 13.400291
+        },
+        {
+            "name": "Alt-Stralau",
+            "lat": 52.48925,
+            "lon": 13.482062
+        },
+        {
+            "name": "Admiralbr\u00fccke",
+            "lat": 52.494954,
+            "lon": 13.415032
+        },
+        {
+            "name": "Fennpfuhlpark S\u00fcd",
+            "lat": 52.527423,
+            "lon": 13.474309
+        },
+        {
+            "name": "Rathauspark",
+            "lat": 52.515136,
+            "lon": 13.478717
+        },
+        {
+            "name": "Ziegelhof",
+            "lat": 52.528489,
+            "lon": 13.19999
+        },
+        {
+            "name": "Steinbergpark",
+            "lat": 52.601831,
+            "lon": 13.30617
+        },
+        {
+            "name": "Steinbergpark (Eingang Ostender Stra\u00dfe)",
+            "lat": 52.5463019,
+            "lon": 13.3521907
+        },
+        {
+            "name": "Pekinger Platz",
+            "lat": 52.539878,
+            "lon": 13.352908
+        },
+        {
+            "name": "Lausitzer Platz (Nr. 10/11)",
+            "lat": 52.500467,
+            "lon": 13.431536
+        },
+        {
+            "name": "Lausitzer Platz (Nr. 14/15)",
+            "lat": 52.500825,
+            "lon": 13.430566
+        },
+        {
+            "name": "B\u00f6cklerpark (Eingang Prinzenstra\u00dfe)",
+            "lat": 52.496836,
+            "lon": 13.405741
+        },
+        {
+            "name": "Mauerpark (Skaterpark, Eingang Bernauer Stra\u00dfe)",
+            "lat": 52.543108,
+            "lon": 13.402045
+        },
+        {
+            "name": "Oberseestra\u00dfe",
+            "lat": 52.548207,
+            "lon": 13.49255
+        },
+        {
+            "name": "Waldowstra\u00dfe",
+            "lat": 52.546366,
+            "lon": 13.491901
+        },
+        {
+            "name": "Mahlerstra\u00dfe",
+            "lat": 52.546407,
+            "lon": 13.453942
+        },
+        {
+            "name": "Schleidenplatz (Waldeyerstra\u00dfe)",
+            "lat": 52.51552,
+            "lon": 13.472324
+        },
+        {
+            "name": "Hohenfriedbergstra\u00dfe (Spielplatz)",
+            "lat": 52.487788,
+            "lon": 13.365102
+        },
+        {
+            "name": "Gotenstra\u00dfe (Spielplatz)",
+            "lat": 52.485127,
+            "lon": 13.360309
+        },
+        {
+            "name": "Heinrich-Lassen-Park",
+            "lat": 52.485398,
+            "lon": 13.34817
+        },
+        {
+            "name": "F\u00f6lderichplatz",
+            "lat": 52.520339,
+            "lon": 13.193374
+        },
+        {
+            "name": "Gro\u00df-Ziethener-Chaussee (Spielplatz)",
+            "lat": 52.412293,
+            "lon": 13.484616
+        },
+        {
+            "name": "Park an der Ritterstra\u00dfe",
+            "lat": 52.503115,
+            "lon": 13.405684
+        },
+        {
+            "name": "Maximilian-Kraft-Platz",
+            "lat": 52.49259,
+            "lon": 13.369114
+        },
+        {
+            "name": "Volkspark Wuhlheide (Verl\u00e4ngerte Rathenaustra\u00dfe)",
+            "lat": 52.464268,
+            "lon": 13.53477
+        },
+        {
+            "name": "Mauerpark (Spielplatz)",
+            "lat": 52.543922,
+            "lon": 13.400392
+        },
+        {
+            "name": "Roedeliusplatz",
+            "lat": 52.515305,
+            "lon": 13.489023
+        },
+        {
+            "name": "Halemweg",
+            "lat": 52.536848,
+            "lon": 13.279561
+        },
+        {
+            "name": "Dolgenseestra\u00dfe",
+            "lat": 52.493996,
+            "lon": 13.506301
+        },
+        {
+            "name": "Am Schlachtensee/Paul-Ernst-Park",
+            "lat": 52.440169,
+            "lon": 13.21438
+        },
+        {
+            "name": "Skalitzer Park (Spielplatz)",
+            "lat": 52.499248,
+            "lon": 13.423795
+        },
+        {
+            "name": "Fischerinsel (Eingang M\u00fchlendamm)",
+            "lat": 52.514449,
+            "lon": 13.40658
+        },
+        {
+            "name": "Carl-Weder-Park (Eingang Bendastra\u00dfe)",
+            "lat": 52.46298,
+            "lon": 13.437703
+        },
+        {
+            "name": "Wilhelm-von-Siemens-Park",
+            "lat": 52.541768,
+            "lon": 13.262449
+        },
+        {
+            "name": "Gatower Stra\u00dfe (Kombibad Spandau)",
+            "lat": 52.518903,
+            "lon": 13.187081
+        },
+        {
+            "name": "Grazer Platz",
+            "lat": 52.467601,
+            "lon": 13.347818
+        },
+        {
+            "name": "Munsterdamm (Sommerbad)",
+            "lat": 52.456734,
+            "lon": 13.349031
+        },
+        {
+            "name": "Trinkwasserspender am BER",
+            "lat": 52.3614259101561,
+            "lon": 13.5088410033593
+        },
+        {
+            "name": "Trinkwasserspender am BER",
+            "lat": 52.3619039124334,
+            "lon": 13.5084835070338
+        },
+        {
+            "name": "Trinkwasserspender am BER",
+            "lat": 52.3625588463931,
+            "lon": 13.5080078062641
+        },
+        {
+            "name": "Trinkwasserspender am BER",
+            "lat": 52.3654539959257,
+            "lon": 13.5065187187123
+        },
+        {
+            "name": "Trinkwasserspender am BER",
+            "lat": 52.3660226165649,
+            "lon": 13.5061338335497
+        },
+        {
+            "name": "Trinkwasserspender am BER",
+            "lat": 52.3664345538803,
+            "lon": 13.5057590390085
+        }
+    ]
+}
